@@ -59,24 +59,11 @@ body {
   padding: 0 30px 30px;
 }
 
-.btn {
-  display: block;
-  color: white;
-  font-weight: 700;
-  font-size: 14px;
-  line-height: 21px;
-  text-align: center;
-  letter-spacing: 3px;
-  text-transform: uppercase;
-  padding: 16px;
-  background-color: #171539;
-  text-decoration: none;
-}
-
 section {
   max-width: 100%;
   margin: 0 auto;
   padding: 100px;
+  overflow-x: hidden;
 }
 
 section.secondary {
